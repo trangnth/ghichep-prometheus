@@ -27,3 +27,5 @@
 [12. Cấu hình libvirt_exporter lấy thông tin các máy ảo](Doc/12.%20libvirt_exporter.md)
 
 [13. Cấu hình sachet gửi cảnh báo qua sms và telegram](Doc/13.%20sachet.md)
+
+Notion: https://www.notion.so/tranguet/Prometheus-3136cac4376745e789e777ee7b2ee726
